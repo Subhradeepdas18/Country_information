@@ -35,8 +35,8 @@ export const Footers = () => {
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2024, All Right Reserved
-                <NavLink to="https://thapatechnical.shop/" target="_blank">
-                  ThapaTechnical
+                <NavLink to="https://www.instagram.com/_subhradeep_das_/?hl=en" target="_blank">
+                  Subhradeep Das
                 </NavLink>
               </p>
             </div>
@@ -49,7 +49,7 @@ export const Footers = () => {
 
                 <li>
                   <NavLink
-                    to="https://www.instagram.com/thapatechnical/"
+                    to="https://www.instagram.com/_subhradeep_das_/?hl=en"
                     target="_blank"
                   >
                     Social
@@ -57,7 +57,7 @@ export const Footers = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="https://thapatechnical.shop/source-code"
+                    to="https://www.linkedin.com/in/subhradeep-das-a654a1258/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                     target="_blank"
                   >
                     Source Code
